@@ -62,7 +62,7 @@
 
 ## 📬 Contact Me
 * **Email:** <a href="mailto:hking2002@naver.com">hking@enaver.com</a>
-* **GitHub:** [github.com/seokhyeon-sketch](https://github.com/seokhyun)
+* **GitHub:** [github.com/seokhyeon-sketch](https://github.com/seokheon-sketch)
 
 ---
 *Last Updated: 2026-04-21*
