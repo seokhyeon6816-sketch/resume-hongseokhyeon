@@ -61,8 +61,8 @@
 ---
 
 ## 📬 Contact Me
-* **Email:** <a href="mailto:seokhyun@example.com">seokhyun@example.com</a>
-* **GitHub:** [github.com/seokhyun](https://github.com/seokhyun)
+* **Email:** <a href="mailto:hking2002@naver.com">hking@enaver.com</a>
+* **GitHub:** [github.com/seokhyeon-sketch](https://github.com/seokhyun)
 
 ---
 *Last Updated: 2026-04-21*
