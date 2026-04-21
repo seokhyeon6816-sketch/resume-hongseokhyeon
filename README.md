@@ -1,11 +1,11 @@
 # resume-hongseokhyeon
-# 👋 안녕하세요, 시각적 경험을 설계하는 개발자 **석현**입니다!
+# 💻 안녕하세요, 확장 가능한 시스템을 설계하는 개발자 **석현**입니다.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=seokhyun&label=Profile%20views&color=0e75b6&style=flat" alt="seokhyun" />
 </p>
 
-> **"사용자의 데이터를 정밀한 3D 가상 환경으로 구현하여, 실재감 있는 인터랙티브 경험을 제공하는 것을 목표로 합니다."**
+> **"이기종 디바이스 간의 원활한 데이터 통합과 효율적인 서버 비즈니스 로직 설계를 통해, 안정적이고 확장성 있는 시스템 파이프라인을 구축하는 것을 지향합니다."**
 
 ---
 
